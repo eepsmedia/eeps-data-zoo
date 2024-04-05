@@ -4,20 +4,23 @@
     "rows": 33,
     "columns": 8,
     "filename": "coins.csv",
-    "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density"
+    "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#25174b739f174678a697543ee9cd6c0f"
   },
   "cooling": {
     "name": "cooling",
     "rows": 61,
     "columns": 2,
     "filename": "cooling.csv",
-    "blurb" : "Very clean data. Exponential decline."
+    "blurb" : "Very clean data. Exponential decline.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#661d56158e7f4261befa004395c0b716"
   },
   "eddy": {
     "name": "eddy tube drop",
     "rows": 61,
     "columns": 2,
     "filename": "eddy.csv",
-    "blurb" : "Magnets falling -- slowly -- through a copper pipe."
+    "blurb" : "Magnets falling -- slowly -- through a copper pipe.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#398affa32cb84626bb1cdf179f9b947e"
   }
 }
