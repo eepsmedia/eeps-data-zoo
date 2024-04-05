@@ -1,0 +1,15 @@
+{
+  "coins" : {
+    "name" : "coins",
+    "rows" : 33,
+    "columns" : 8,
+    "filename" : "coins.csv"
+  },
+    "cooling" : {
+    "name" : "cooling",
+    "rows" : 61,
+    "columns" : 2,
+    "filename" : "cooling.csv"
+  }
+
+}
