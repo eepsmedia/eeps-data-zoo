@@ -1,0 +1,46 @@
+# name: Coins
+# source: Coins.txt
+# importDate: 2024-04-05T14:38:18.612Z
+# description: size and mass of various coins
+# attribute -- name: number, editable: true
+# attribute -- name: unit, editable: true
+# attribute -- name: year, editable: true
+# attribute -- name: country, editable: true
+# attribute -- name: mass, unit: g, editable: true
+# attribute -- name: diameter, unit: cm, editable: true
+# attribute -- name: thick, unit: cm, editable: true
+# attribute -- name: color, editable: true
+number,unit,year,country,mass,diameter,thick,color
+25,cent,2005,USA,5.68,2.4196,0.149352,silver
+25,cent,1979,USA,5.61,2.42265,0.156718,silver
+25,cent,1992,USA,5.66,2.41757,0.151384,silver
+1,dollar,,USA,8.03,2.65278,0.177292,gold
+1,dollar,,USA,7.99,2.65328,0.178054,gold
+1,dollar,,USA,7.95,2.64973,0.174752,gold
+10,peso,,MEX,10.23,2.75,0.218948,mixed
+1,krone,2003,SWE,6.97,2.50012,0.170688,silver
+2,pence,1979,GBR,7.03,2.59613,0.17272,gold
+20,peso,,MEX,15.83,3.2,0.25908,mixed
+5,rand,1994,RSA,6.93,2.59156,0.163576,silver
+1,real,,BRA,6.83,2.6957,0.166624,mixed
+50,centavo,1994,BRA,3.96,2.29514,0.126746,silver
+2,peso,1994,MEX,5.17,2.30937,0.172212,mixed
+5,centavo,2003,BRA,4.11,2.20726,0.147828,gold
+5,cent,2010,USA,4.95,2.11811,0.16002,silver
+5,cent,1996,USA,4.92,2.12395,0.169672,silver
+5,cent,1964,USA,4.98,2.11836,0.181864,silver
+2,euro,2000,FRA,8.55,2.55,0.188976,mixed
+1,euro,2002,GER,7.51,2.32258,0.20447,mixed
+1,pound,2002,GBR,9.55,2.50723,0.289814,gold
+10,centavos,1996,BRA,3.6,2.19862,0.124714,silver
+1,peso,1993,MEX,3.92,2.10642,0.161798,mixed
+5,euro-cent,2002,EUR,3.94,2.12522,0.142494,gold
+1,cent,1997,USA,2.46,1.90678,0.136144,gold
+1,cent,2004,USA,2.49,1.9017,0.132842,gold
+10,cent,2002,USA,2.25,1.78841,0.116078,silver
+1,krone,1992,DEN,3.68,2.0254,0.135128,silver
+10,öre,1980,SWE,1.45,1.49962,0.094234,silver
+1,dollar,1990,CAN,6.96,2.6,0.143764,gold
+10,krone,1984,NOR,8.97,2.40589,0.286766,silver
+5,peso,1999,MEX,7.04,2.55753,0.195834,mixed
+10,cent,2000,RSA,2,1.59741,0.13716,gold
