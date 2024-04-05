@@ -1,15 +1,23 @@
 {
-  "coins" : {
-    "name" : "coins",
-    "rows" : 33,
-    "columns" : 8,
-    "filename" : "coins.csv"
+  "coins": {
+    "name": "coins",
+    "rows": 33,
+    "columns": 8,
+    "filename": "coins.csv",
+    "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density"
   },
-    "cooling" : {
-    "name" : "cooling",
-    "rows" : 61,
-    "columns" : 2,
-    "filename" : "cooling.csv"
+  "cooling": {
+    "name": "cooling",
+    "rows": 61,
+    "columns": 2,
+    "filename": "cooling.csv",
+    "blurb" : "Very clean data. Exponential decline."
+  },
+  "eddy": {
+    "name": "eddy tube drop",
+    "rows": 61,
+    "columns": 2,
+    "filename": "eddy.csv",
+    "blurb" : "Magnets falling -- slowly -- through a copper pipe."
   }
-
 }
