@@ -22,5 +22,13 @@
     "filename": "eddy.csv",
     "blurb" : "Magnets falling -- slowly -- through a copper pipe.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#398affa32cb84626bb1cdf179f9b947e"
+  },
+  "electromagnet": {
+    "name": "electromagnet",
+    "rows": 16,
+    "columns": 3,
+    "filename": "electromagnet.csv",
+    "blurb" : "Force from an electromagnet depending on current and distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
   }
 }
