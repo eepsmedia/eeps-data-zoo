@@ -1,0 +1,27 @@
+# name: eddy tube drop
+# source: Tim Erickson
+# importDate: 4/5/2024&comma; 10:45 AM
+# description: The curator dropped small&comma; strong magnets though an "eddy tube&comma;" a thick copper pipe. There were two magnets (total mass 17.7g) forming a "sandwich" of a varying number of pennies (2.66g each). The moving magnetic field sets up electrical currents in the pipe&comma; which in turn set up a magnetic field&comma; which -- doesn't it just figure? -- opposes the field of the permanent magnets&comma; making them slow down.&NewLine;&NewLine;
+# attribute -- name: Pennies, editable: true
+# attribute -- name: T1, description: time to first gate, unit: s, editable: true
+# attribute -- name: T2, description: time to second gate, unit: s, editable: true
+Pennies,T1,T2
+2,4.56252,5.55262
+2,3.50356,4.52572
+2,4.02902,4.99922
+0,5.36052,6.56555
+0,4.08853,5.44156
+0,3.75652,4.83712
+4,2.40576,3.16043
+4,3.28913,4.10074
+6,1.97103,2.63842
+6,1.90416,2.61972
+8,2.56452,3.17232
+3,1.31512,2.12974
+3,1.59482,2.47584
+5,1.45436,2.18416
+5,1.90994,2.67892
+1,1.55252,2.59096
+1,2.06292,3.12896
+0,2.09122,3.31156
+1,1.42752,2.46752
