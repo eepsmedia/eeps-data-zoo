@@ -63,13 +63,29 @@
     "blurb" : "Time for a cart to roll down a (different) fixed distance.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#7b45e5075cb445a9b843d32fdd9f0cee"
   },
-  "cue ball ramp speed": {
+  "cue-ball-ramp-speed": {
     "name": "cue ball ramp speed",
     "rows": 22,
     "columns": 2,
     "filename": "cue ball ramp speed.csv",
-    "blurb" : "Time for a ball to roll through a photogate after vrious distances.",
+    "blurb" : "Time for a ball to roll through a photogate after various distances.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#c51b973bb22049c4b4089ba6fd6b58df"
+  },
+  "tennis-ball-ramp-speed": {
+    "name": "tennis ball ramp speed",
+    "rows": 12,
+    "columns": 2,
+    "filename": "tennis ball ramp speed.csv",
+    "blurb" : "Time for a tennis ball to roll through a photogate after various distances.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#21ad36869ffc4cc4ae344d0afdc1caf8"
+  },
+  "ramp-time-and-distance": {
+    "name": "ramp time and distance",
+    "rows": 92,
+    "columns": 5,
+    "filename": "ramp time and distance.csv",
+    "blurb" : "Time for a balls to roll various distances down a track. Time from stopwatches!",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#e8b3af3952134a92acf9b496a634f9b6"
   }
 }
 
