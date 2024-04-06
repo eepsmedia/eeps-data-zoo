@@ -1,0 +1,18 @@
+# name: clipboard data
+# source: Henry Ma&comma; Art Fortgang&comma; 2002
+# importDate: 4/5/2024&comma; 6:33 PM
+# description: Time for a cart to roll down a fixed distance (0.492 m) as a function of the height at the start.
+# attribute -- name: time, description: time for the cart to go 0.492 meters down the ramp , unit: s, editable: true
+# attribute -- name: height, description: the height of the start of he track, unit: m, editable: true
+time,height
+3.5,0.017
+2.2,0.033
+1.7,0.048
+1.6,0.056
+1.4,0.076
+1.2,0.087
+1.2,0.103
+1.0,0.121
+0.9,0.140
+0.83,0.175
+0.7,0.250

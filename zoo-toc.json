@@ -46,5 +46,30 @@
     "filename": "hanging-slinky-length.csv",
     "blurb" : "Length of a hanging slinky, depending on number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
+  },
+  "ramp-angle-1": {
+    "name": "ramp angle 1",
+    "rows": 11,
+    "columns": 2,
+    "filename": "ramp-angle-1.csv",
+    "blurb" : "Time for a cart to roll down a fixed distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#8ab28d25ccda497abc15a6ffa8274c04"
+  },
+  "ramp-angle-2": {
+    "name": "ramp angle 2",
+    "rows": 15,
+    "columns": 3,
+    "filename": "ramp-angle-2.csv",
+    "blurb" : "Time for a cart to roll down a (different) fixed distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#7b45e5075cb445a9b843d32fdd9f0cee"
+  },
+  "cue ball ramp speed": {
+    "name": "cue ball ramp speed",
+    "rows": 22,
+    "columns": 2,
+    "filename": "cue ball ramp speed.csv",
+    "blurb" : "Time for a ball to roll through a photogate after vrious distances.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#c51b973bb22049c4b4089ba6fd6b58df"
   }
 }
+

@@ -1,0 +1,29 @@
+# name: clipboard data
+# source: Tim Erickson 2002
+# importDate: 4/5/2024&comma; 6:58 PM
+# description: The cue ball rolls down a ramp from a position given my "mark" (large values are higher up the ramp). The ball rolls through a photogate near the bottom of the ramp at mark = –2.5.
+# attribute -- name: time, description: time for the ball to pass through the photogate, unit: s, editable: true
+# attribute -- name: mark, description: release position for ball (1 mark = 10 cm), editable: true
+time,mark
+0.09910,0
+0.08398,1
+0.07410,2
+0.06742,3
+0.06243,4
+0.05831,5
+0.05505,6
+0.05212,7
+0.04940,8
+0.04710,9
+0.04514,10
+0.04330,11
+0.04172,12
+0.04026,13
+0.03893,14
+0.03775,15
+0.03660,16
+0.03568,17
+0.03474,18
+0.03381,19
+0.12914,-1
+0.22187,-2
