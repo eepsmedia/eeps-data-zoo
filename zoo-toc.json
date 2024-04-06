@@ -4,6 +4,7 @@
     "rows": 33,
     "columns": 8,
     "filename": "coins.csv",
+    "keywords" : "density,volume",
     "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#25174b739f174678a697543ee9cd6c0f"
   },
@@ -12,6 +13,7 @@
     "rows": 61,
     "columns": 2,
     "filename": "cooling.csv",
+    "keywords" : "thermodynamics,exponential",
     "blurb" : "Very clean data. Exponential decline.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#661d56158e7f4261befa004395c0b716"
   },
@@ -20,6 +22,7 @@
     "rows": 61,
     "columns": 2,
     "filename": "eddy.csv",
+    "keywords" : "physics - E&M",
     "blurb" : "Magnets falling -- slowly -- through a copper pipe.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#398affa32cb84626bb1cdf179f9b947e"
   },
@@ -28,6 +31,7 @@
     "rows": 16,
     "columns": 3,
     "filename": "electromagnet.csv",
+    "keywords" : "physics - E&M,power law",
     "blurb" : "Force from an electromagnet depending on current and distance.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
   },
@@ -36,6 +40,7 @@
     "rows": 12,
     "columns": 2,
     "filename": "hanging-slinky-freq.csv",
+    "keywords" : "physics - waves,linear",
     "blurb" : "Period of oscillation of a hanging slinky.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#1de56dac505c44ddadd8d0c27b564169"
   },
@@ -44,6 +49,7 @@
     "rows": 15,
     "columns": 2,
     "filename": "hanging-slinky-length.csv",
+    "keywords" : "physics - mechanics,quadratic",
     "blurb" : "Length of a hanging slinky, depending on number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
   },
@@ -52,7 +58,8 @@
     "rows": 11,
     "columns": 2,
     "filename": "ramp-angle-1.csv",
-    "blurb" : "Time for a cart to roll down a fixed distance.",
+    "keywords" : "physics - mechanics,ramps",
+    "blurb" : "Time for a cart to roll down a fixed distance at different angles.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#8ab28d25ccda497abc15a6ffa8274c04"
   },
   "ramp-angle-2": {
@@ -60,7 +67,8 @@
     "rows": 15,
     "columns": 3,
     "filename": "ramp-angle-2.csv",
-    "blurb" : "Time for a cart to roll down a (different) fixed distance.",
+    "keywords" : "physics - mechanics,ramps",
+    "blurb" : "Time for a cart to roll down a (different) fixed distance at different angles.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#7b45e5075cb445a9b843d32fdd9f0cee"
   },
   "cue-ball-ramp-speed": {
@@ -68,6 +76,7 @@
     "rows": 22,
     "columns": 2,
     "filename": "cue ball ramp speed.csv",
+    "keywords" : "physics - mechanics,ramps",
     "blurb" : "Time for a cue ball to roll through a photogate after various distances.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#c51b973bb22049c4b4089ba6fd6b58df"
   },
@@ -76,6 +85,7 @@
     "rows": 12,
     "columns": 2,
     "filename": "tennis ball ramp speed.csv",
+    "keywords" : "physics - mechanics,ramps",
     "blurb" : "Time for a tennis ball to roll through a photogate after various distances.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#21ad36869ffc4cc4ae344d0afdc1caf8"
   },
@@ -84,7 +94,8 @@
     "rows": 92,
     "columns": 5,
     "filename": "ramp time and distance.csv",
-    "blurb" : "Time for a balls to roll various distances down a track. Time from stopwatches!",
+    "keywords" : "physics - mechanics,ramps",
+    "blurb" : "Time for a ball to roll various distances down a track. Time from stopwatches!",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#e8b3af3952134a92acf9b496a634f9b6"
   }
 }
