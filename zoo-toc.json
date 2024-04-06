@@ -68,7 +68,7 @@
     "rows": 22,
     "columns": 2,
     "filename": "cue ball ramp speed.csv",
-    "blurb" : "Time for a ball to roll through a photogate after various distances.",
+    "blurb" : "Time for a cue ball to roll through a photogate after various distances.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#c51b973bb22049c4b4089ba6fd6b58df"
   },
   "tennis-ball-ramp-speed": {

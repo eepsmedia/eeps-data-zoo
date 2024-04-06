@@ -1,4 +1,4 @@
-# name: clipboard data
+# name: ramp - cue ball speed
 # source: Tim Erickson 2002
 # importDate: 4/5/2024&comma; 6:58 PM
 # description: The cue ball rolls down a ramp from a position given my "mark" (large values are higher up the ramp). The ball rolls through a photogate near the bottom of the ramp at mark = –2.5.
