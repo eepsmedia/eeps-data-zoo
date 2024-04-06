@@ -30,5 +30,21 @@
     "filename": "electromagnet.csv",
     "blurb" : "Force from an electromagnet depending on current and distance.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
+  },
+  "hang-slinky-freq": {
+    "name": "hanging slinky frequency",
+    "rows": 12,
+    "columns": 2,
+    "filename": "hanging-slinky-freq.csv",
+    "blurb" : "Period of oscillation of a hanging slinky.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#1de56dac505c44ddadd8d0c27b564169"
+  },
+  "hang-slinky-length": {
+    "name": "hanging slinky length",
+    "rows": 15,
+    "columns": 2,
+    "filename": "hanging-slinky-length.csv",
+    "blurb" : "Length of a hanging slinky, depending on number of slinks.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
   }
 }
