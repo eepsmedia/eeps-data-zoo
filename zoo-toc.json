@@ -5,8 +5,17 @@
     "columns": 4,
     "filename": "heavy-hexnuts.csv",
     "keywords" : "density,geometry",
-    "blurb" : "Masses of different-sized hexnuts. How does mass depend on size?",
+    "blurb" : "Masses of different-sized hexnuts. How does mass depend on size? How do the other dimensions depend on the size attribute?",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#2c17a4e35e074cca988ad92d356adbe2"
+  },
+  "hexnuts": {
+    "name": "hexnuts",
+    "rows": 26,
+    "columns": 3,
+    "filename": "hexnuts.csv",
+    "keywords" : "geometry",
+    "blurb" : "Masses of different-sized hexnuts. How does mass depend on bolt size?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#e73010ec24664d47bd9730e6d7999dd7"
   },
   "coins": {
     "name": "coins",
@@ -124,6 +133,24 @@
     "keywords" : "physics - statics, forces, geometry",
     "blurb" : "Forces supporting a mass",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#6bb0867d21664cc89982ba324f235ebf"
+  },
+  "hyades": {
+    "name": "hyades",
+    "rows": 407,
+    "columns": 9,
+    "filename": "hyades.csv",
+    "keywords" : "astronomy",
+    "blurb" : "Data on stars in the Hyades region of the sky. Which stars are part of the cluster?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#7f0181cebf9b4a84b59e4612fe5a3dd1"
+  },
+  "pleiades": {
+    "name": "pleiades",
+    "rows": 407,
+    "columns": 9,
+    "filename": "pleiades.csv",
+    "keywords" : "astronomy",
+    "blurb" : "Data on stars in the Pleiades region of the sky. Which stars are part of the cluster?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#fd2144854f9944729540706460f94aca"
   }
 }
 
