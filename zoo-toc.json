@@ -1,10 +1,19 @@
 {
+  "heavy-hexnuts": {
+    "name": "heavy&nbsp;hexnuts",
+    "rows": 22,
+    "columns": 4,
+    "filename": "heavy-hexnuts.csv",
+    "keywords" : "density,geometry",
+    "blurb" : "Masses of different-sized hexnuts. How does mass depend on size?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#2c17a4e35e074cca988ad92d356adbe2"
+  },
   "coins": {
     "name": "coins",
     "rows": 33,
     "columns": 8,
     "filename": "coins.csv",
-    "keywords" : "density,volume",
+    "keywords" : "density,volume,geometry",
     "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#25174b739f174678a697543ee9cd6c0f"
   },
@@ -13,9 +22,18 @@
     "rows": 61,
     "columns": 2,
     "filename": "cooling.csv",
-    "keywords" : "thermodynamics,exponential",
+    "keywords" : "thermodynamics,exponential,time series",
     "blurb" : "Very clean data. Exponential decline.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#661d56158e7f4261befa004395c0b716"
+  },
+  "heating": {
+    "name": "heating water",
+    "rows": 61,
+    "columns": 2,
+    "filename": "heating.csv",
+    "keywords" : "residuals,thermodynamics,time series,munging",
+    "blurb" : "Sure looks linear...but is it?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#3edb842904004bb5bf284218474c02f3"
   },
   "eddy": {
     "name": "eddy tube drop",

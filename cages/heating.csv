@@ -1,0 +1,20 @@
+# name: clipboard data
+# source: Tim Erickson 1999
+# importDate: 4/6/2024&comma; 7:55 PM
+# description: Water on a stove; we recorded the time every time the temperature passed a multiple of 5°C.
+# attribute -- name: min, description: minutes since start, unit: m, editable: true
+# attribute -- name: sec, description: seconds since the last minute, unit: s, editable: true
+# attribute -- name: temp, unit: °C, editable: true
+min,sec,temp
+0,49,35
+1,2,40
+1,16,45
+1,29,50
+1,43,55
+1,57,60
+2,11,65
+2,25,70
+2,41,75
+2,56,80
+3,10,85
+3,25,90
