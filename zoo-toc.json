@@ -19,7 +19,7 @@
   },
   "eddy": {
     "name": "eddy tube drop",
-    "rows": 61,
+    "rows": 19,
     "columns": 2,
     "filename": "eddy.csv",
     "keywords" : "physics - E&M",
@@ -97,6 +97,15 @@
     "keywords" : "physics - mechanics,ramps",
     "blurb" : "Time for a ball to roll various distances down a track. Time from stopwatches!",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#e8b3af3952134a92acf9b496a634f9b6"
+  },
+  "hanging-triangle": {
+    "name": "hanging&nbsp;triangle",
+    "rows": 6,
+    "columns": 5,
+    "filename": "hanging-triangle.csv",
+    "keywords" : "physics - statics, forces, geometry",
+    "blurb" : "Forces supporting a mass",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#6bb0867d21664cc89982ba324f235ebf"
   }
 }
 

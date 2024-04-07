@@ -1,0 +1,16 @@
+# name: clipboard data
+# source: physics teachers!
+# importDate: 4/6/2024&comma; 6:00 PM
+# description: Click the info button on the zoo page to see the figure. Two force sensors&comma; F1 and F2&comma; at the same height&comma; are connected by a string. A mass hangs from the string. The string is longer than the distance between the sensors&comma; so it hangs down&comma; forming a triangle. The distances from the sensors to the  mass are X1 and X2. The mass is "h" meters below the horizontal.
+# attribute -- name: F1, description: force from one sensor, unit: N, editable: true
+# attribute -- name: F2, description: force from the other sensor, unit: N, editable: true
+# attribute -- name: X1, description: distance from sensor 1 to the mass, unit: m, editable: true
+# attribute -- name: X2, description: distance from sensor 2 to the mass, unit: m, editable: true
+# attribute -- name: h, description: vertical distance from the horizontal down to the mass (i.e.&comma; a leg where the distances X1 and X2 are hypotenuses), unit: m, editable: true
+F1,F2,X1,X2,h
+0.95,0.28,0.245,0.49,0.235
+0.77,0.64,0.325,0.40,0.27
+0.55,0.82,0.40,0.32,0.26
+0.34,0.98,0.465,0.26,0.245
+0.02,1.09,0.515,0.195,0.195
+1.05,0.02,0.20,0.525,0.2
