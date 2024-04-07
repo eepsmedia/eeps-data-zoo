@@ -62,12 +62,21 @@
     "blurb" : "Force from an electromagnet depending on current and distance.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
   },
+  "magnet-force": {
+    "name": "magnet force",
+    "rows": 37,
+    "columns": 3,
+    "filename": "magnet-force.csv",
+    "keywords" : "physics - E&M,power law",
+    "blurb" : "Repulsive force from an magnet depending on distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ff8161a56e3542e5bfa2467a1907e966"
+  },
   "hang-slinky-freq": {
     "name": "hanging slinky frequency",
     "rows": 12,
     "columns": 2,
     "filename": "hanging-slinky-freq.csv",
-    "keywords" : "physics - waves,linear",
+    "keywords" : "physics - waves,linear,spring",
     "blurb" : "Period of oscillation of a hanging slinky.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#1de56dac505c44ddadd8d0c27b564169"
   },
@@ -76,9 +85,18 @@
     "rows": 15,
     "columns": 2,
     "filename": "hanging-slinky-length.csv",
-    "keywords" : "physics - mechanics,quadratic",
+    "keywords" : "physics - mechanics,quadratic,spring",
     "blurb" : "Length of a hanging slinky, depending on number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
+  },
+  "Hooke's slinky": {
+    "name": "Hooke's slinky",
+    "rows": 36,
+    "columns": 3,
+    "filename": "hooke-slinky.csv",
+    "keywords" : "physics - statics,Hooke,spring",
+    "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
   },
   "ramp-angle-1": {
     "name": "ramp angle 1",
@@ -145,7 +163,7 @@
   },
   "pleiades": {
     "name": "pleiades",
-    "rows": 407,
+    "rows": 113,
     "columns": 9,
     "filename": "pleiades.csv",
     "keywords" : "astronomy",

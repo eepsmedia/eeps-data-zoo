@@ -1,0 +1,45 @@
+# name: magnet force
+# source: Mills High School
+# importDate: 4/7/2024&comma; 10:59 AM
+# description: See the illustration in the notes. A magnet was glued to an electronic scale&comma; and then a second magnet was lowered. The orientation was "repulsive"&comma; so as the magnet got closer&comma; the weight measured by the scale increased.
+# attribute -- name: group, type: categorical, editable: true
+# attribute -- name: distance, unit: cm, editable: true
+# attribute -- name: force, description: measured in grams of force (not Newtons), unit: gf, editable: true
+group,distance,force
+A,7.5,0.4
+A,8,0.36
+A,8.5,0.34
+A,9,0.25
+A,9.5,0.21
+A,10,0.18
+A,10.5,0.12
+A,11,0.1
+A,11.5,0.09
+A,12,0.08
+A,12.5,0.07
+A,13,0.06
+A,13.5,0.05
+B,18.0,0.01
+B,17.0,0.02
+B,16.0,0.02
+B,15.0,0.04
+B,14.5,0.05
+B,14.0,0.06
+B,13.5,0.07
+B,13.0,0.08
+B,12.5,0.09
+B,12.0,0.09
+B,11.5,0.10
+B,11.0,0.13
+B,10.5,0.16
+B,10.0,0.20
+B,9.5,0.24
+B,9.0,0.29
+B,8.5,0.39
+B,8.0,0.48
+B,7.5,0.60
+B,7.0,0.77
+B,6.5,1.01
+B,6.0,1.27
+B,5.5,1.82
+B,5.0,2.58

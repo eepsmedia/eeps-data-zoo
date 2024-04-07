@@ -3,9 +3,9 @@
 # importDate: 4/7/2024&comma; 7:19 AM
 # description: Data on the region of sky in which the Hyades star cluster appears.
 # attribute -- name: V, description: apparent visual magnitude. Remember: smaller is brighter!, editable: true
-# attribute -- name: RA, description: right ascension (celestial longitude), unit: degrees, editable: true
-# attribute -- name: DEC, description: declination (celestial latitude), unit: degrees, editable: true
-# attribute -- name: parallax, unit: milliarcseconds, editable: true
+# attribute -- name: RA, description: right ascension (celestial longitude&comma; east-west), unit: degrees, editable: true
+# attribute -- name: DEC, description: declination (celestial latitude&comma; north-south), unit: degrees, editable: true
+# attribute -- name: parallax, description: annual "wiggle", unit: milliarcseconds, editable: true
 # attribute -- name: PM_RA, description: proper motion (systematic speed on the sky) in right ascension (east-west), unit: milliarcsec/year, editable: true
 # attribute -- name: PM_DEC, description: proper motion (systematic speed on the sky) in declination (north-south), unit: milliarcsec/year, editable: true
 # attribute -- name: B_V, description: Color index B–V. Larger is redder&comma; smaller is bluer., unit: mags, editable: true

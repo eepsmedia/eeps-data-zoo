@@ -1,0 +1,44 @@
+# name: Hooke's slinky
+# source: Tim Erickson
+# importDate: 4/7/2024&comma; 10:41 AM
+# description: We stretched "coils" number of coils of a standard slinky over a given distance and attached it to a force sensor. &NewLine;&NewLine;This was horizontal&comma; on a smooth wooden floor.
+# attribute -- name: coils, editable: true
+# attribute -- name: distance, description: stretched distance of the set number of coils in the slinky, unit: feet, editable: true
+# attribute -- name: force, description: force exerted on a sensor at the end of the slinky, unit: N, editable: true
+coils,distance,force
+25,3,2.33
+25,3.5,2.68
+25,2.5,1.86
+25,4,3.15
+25,2,1.48
+25,4.5,3.82
+25,1.5,1.1
+25,3,2.28
+25,4,3.2
+25,4.5,3.72
+25,1,0.78
+30,3,1.77
+30,4,2.47
+30,2,1.24
+30,2.5,1.47
+30,3.5,2.17
+30,4.5,2.78
+30,1.5,0.87
+35,3,1.5
+35,4,2.08
+35,2.5,1.29
+35,3.5,1.8
+35,4.5,2.27
+40,2,0.96
+40,2.5,1.05
+40,3,1.37
+40,3.5,1.55
+40,4,1.74
+40,4.5,2.03
+40,5,2.28
+20,1.5,1.32
+20,2,1.775
+20,2.5,2.165
+20,3,2.78
+20,3.5,3.3
+20,1,0.85
