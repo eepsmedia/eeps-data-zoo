@@ -1,4 +1,22 @@
 {
+  "shopping-carts": {
+    "name": "shopping carts",
+    "rows": 12 ,
+    "columns": 3,
+    "filename": "shopping-carts.csv",
+    "keywords" : "linear",
+    "blurb" : "Lengths of shopping-cart \"trains\"",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#779f0cb6203f43e9aeadbc00d1ec3d08"
+  },
+  "satgpa": {
+    "name": "SATGPA",
+    "rows": 1000,
+    "columns": 5,
+    "filename": "satgpa.csv",
+    "keywords" : "people,prediction",
+    "blurb" : "SAT and GPA data from the late 1900s. What predicts success in college? Is there really a gender gap in scores?",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#1351c60b78234f0bba4f3893572e72e2"
+  },
   "heavy-hexnuts": {
     "name": "heavy&nbsp;hexnuts",
     "rows": 22,
@@ -25,6 +43,15 @@
     "keywords" : "density,volume,geometry",
     "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#25174b739f174678a697543ee9cd6c0f"
+  },
+  "snook": {
+    "name": "snook",
+    "rows": 2563,
+    "columns": 4,
+    "filename": "snook.csv",
+    "keywords" : "geometry,power law",
+    "blurb" : "Length and mass of a whole lot of snook. (Snook are fish...)",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#df8abd39d4dc441d95811fb7f4acd9d4"
   },
   "radiosonde": {
     "name": "radiosonde",

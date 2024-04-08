@@ -1,0 +1,20 @@
+# name: shopping carts
+# source: Susan English and Tim Erickson 2004
+# importDate: 4/8/2024&comma; 7:26 AM
+# description: Lengths of shopping-cart "trains"
+# attribute -- name: N, description: number of carts in the train, editable: true
+# attribute -- name: length, description: length of the train of N shopping carts, unit: cm, editable: true
+# attribute -- name: notes, editable: true
+N,length,notes
+2,138,
+3,169,
+3,168,
+10,390,
+7,295,
+14,517,
+20,709,
+3,170,
+4,202,bale up
+5,242,being brought in
+7,309,being brought in
+5,234,
