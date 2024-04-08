@@ -161,6 +161,15 @@
     "blurb" : "Time for a ball to roll various distances down a track. Time from stopwatches!",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#e8b3af3952134a92acf9b496a634f9b6"
   },
+  "rolling friction": {
+    "name": "rolling friction",
+    "rows": 24,
+    "columns": 3,
+    "filename": "rolling-friction.csv",
+    "keywords" : "physics - mechanics,friction",
+    "blurb" : "How the distance a cue ball rolls depends on its speed",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ac1f5659b74344019ac26645f8415ece"
+  },
   "hanging-triangle": {
     "name": "hanging&nbsp;triangle",
     "rows": 6,

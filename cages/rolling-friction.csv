@@ -1,0 +1,32 @@
+# name: rolling friction
+# source: Bryan Cooley&comma; 2003
+# importDate: 4/7/2024&comma; 8:05 PM
+# description: We roll a cue ball though a pair of photogates 1.5 cm apart&comma; measuring the time difference (which is related to the speed). &NewLine;&NewLine;Then we measure the distance from the gates to where the ball stopped.
+# attribute -- name: gateTime, description: time between two photogates 15 mm apart, unit: s, editable: true
+# attribute -- name: distance, description: distance the ball rolled after passing through the photogates, unit: cm, editable: true
+# attribute -- name: cue_or_roll, editable: true
+gateTime,distance,cue_or_roll
+0.039,88.5,cue
+0.045,66.5,roll
+0.031,143,roll
+0.038,95.5,roll
+0.068,29.5,roll
+0.04,83.5,roll
+0.064,33.5,roll
+0.078,22.5,roll
+0.055,46,roll
+0.051,51.5,roll
+0.029,172,roll hit sticker
+0.03,168.5,roll
+0.032,128,roll
+0.049,58,roll
+0.031,136,roll
+0.044,71,roll
+0.036,110,roll
+0.064,34.5,roll
+0.036,105,roll
+0.039,90,roll
+0.026,196.5,roll
+0.027,174,roll
+0.05,55.5,roll
+0.026,183.5,roll
