@@ -26,6 +26,15 @@
     "blurb" : "Mass, diameter, thickness, etc. Great for thinking about density",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#25174b739f174678a697543ee9cd6c0f"
   },
+  "radiosonde": {
+    "name": "radiosonde",
+    "rows": 185,
+    "columns": 4,
+    "filename": "radiosonde.csv",
+    "keywords" : "atmosphere,velocity,time series",
+    "blurb" : "Data from a weather balloon ascent. Predict altitude as a function of time...",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#220e0887fa4146e5ba9bca2be415efec"
+  },
   "cooling": {
     "name": "cooling",
     "rows": 61,
@@ -97,6 +106,15 @@
     "keywords" : "physics - statics,Hooke,spring",
     "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
+  },
+  "mettler-scale": {
+    "name": "ramp angle 1",
+    "rows": 11,
+    "columns": 3,
+    "filename": "mettler-scale.csv",
+    "keywords" : "physics - statics,geometry",
+    "blurb" : "How the apparent weight of an object changes as you tile the scale.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#02a3d398562c48ebb30a7dbed780e9a5"
   },
   "ramp-angle-1": {
     "name": "ramp angle 1",

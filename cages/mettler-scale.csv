@@ -1,0 +1,19 @@
+# name: Mettler scale
+# source: Susan English&comma; Tim Erickson
+# importDate: 4/7/2024&comma; 6:38 PM
+# description: Readings from a blob of clay on a Mettler scale&comma; when tilted at various angles.
+# attribute -- name: height, description: height of the top edge of the platform, unit: cm, editable: true
+# attribute -- name: reading, description: what the scale read, unit: g, editable: true
+# attribute -- name: theta, description: angle of the platform, unit: radians, editable: true
+height,reading,theta
+0,44.79,0
+4.2,56.98,0.140461
+5,61.53,0.167448
+5.9,68.53,0.197957
+7,79.22,0.235504
+8.1,90.82,0.273393
+5.6,66.06,0.187768
+9,101.78,0.304693
+10.8,125.41,0.368268
+12.1,149.12,0.415157
+12.1,149.74,0.415157
