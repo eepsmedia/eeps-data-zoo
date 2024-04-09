@@ -107,6 +107,24 @@
     "blurb" : "Repulsive force from an magnet depending on distance.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ff8161a56e3542e5bfa2467a1907e966"
   },
+  "tension-springs": {
+    "name": "tension springs",
+    "rows": 20,
+    "columns": 3,
+    "filename": "tension-springs.csv",
+    "keywords" : "physics - statics,Hooke,spring",
+    "blurb" : "Force and length for three tension springs. Discovery of pre-tension.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#165c2b1522684e2bb8c8096c49280198"
+  },
+  "Hooke's slinky": {
+    "name": "Hooke's slinky",
+    "rows": 36,
+    "columns": 3,
+    "filename": "hooke-slinky.csv",
+    "keywords" : "physics - statics,Hooke,spring",
+    "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
+  },
   "hang-slinky-freq": {
     "name": "hanging slinky frequency",
     "rows": 12,
@@ -124,15 +142,6 @@
     "keywords" : "physics - mechanics,quadratic,spring",
     "blurb" : "Length of a hanging slinky, depending on number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
-  },
-  "Hooke's slinky": {
-    "name": "Hooke's slinky",
-    "rows": 36,
-    "columns": 3,
-    "filename": "hooke-slinky.csv",
-    "keywords" : "physics - statics,Hooke,spring",
-    "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
   },
   "mettler-scale": {
     "name": "ramp angle 1",
@@ -205,6 +214,15 @@
     "keywords" : "physics - statics, forces, geometry",
     "blurb" : "Forces supporting a mass",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#6bb0867d21664cc89982ba324f235ebf"
+  },
+  "thin-lens": {
+    "name": "thin lens",
+    "rows": 9,
+    "columns": 3,
+    "filename": "thin-lens.csv",
+    "keywords" : "optics",
+    "blurb" : "Data from a thin-lens classroom experiment",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ad85f2d1e9f64e1cb990f11b838aaccc"
   },
   "hyades": {
     "name": "hyades",

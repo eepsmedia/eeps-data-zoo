@@ -1,0 +1,17 @@
+# name: this lens
+# source: San Leandro High&comma; 2003
+# importDate: 4/9/2024&comma; 7:44 AM
+# description: Thin-lens data. The setup is bulb-lens-cardboard&comma; at a distance so that a clear image of the bulb appears on the cardboard.&NewLine;&NewLine;The students did not record the units! Shame!!
+# attribute -- name: bulb, description: distance from the light bulb (on one end of this setup) to the lens (in the middle), editable: true
+# attribute -- name: image, description: distance from the image (on cardboard at the other end of this setup) to the lens (in the middle), editable: true
+# attribute -- name: group, editable: true
+bulb,image,group
+11.5,6,Abad
+8.5,7,Abad
+6,10,Abad
+5.5,14,Abad
+13,40,Baker
+16,24,Baker
+20,20,Baker
+26,15,Baker
+13.5,37,Baker
