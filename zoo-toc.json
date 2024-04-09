@@ -62,6 +62,42 @@
     "blurb" : "Data from a weather balloon ascent. Predict altitude as a function of time...",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#220e0887fa4146e5ba9bca2be415efec"
   },
+  "Hooke's slinky": {
+    "name": "Hooke's slinky",
+    "rows": 36,
+    "columns": 3,
+    "filename": "hooke-slinky.csv",
+    "keywords" : "physics - statics,forces,Hooke,spring",
+    "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
+  },
+  "tension-springs": {
+    "name": "tension springs",
+    "rows": 20,
+    "columns": 3,
+    "filename": "tension-springs.csv",
+    "keywords" : "physics - statics,forces,Hooke,spring",
+    "blurb" : "Force and length for three tension springs. Discovery of pre-tension.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#165c2b1522684e2bb8c8096c49280198"
+  },
+  "hanging-triangle": {
+    "name": "hanging&nbsp;triangle",
+    "rows": 6,
+    "columns": 5,
+    "filename": "hanging-triangle.csv",
+    "keywords" : "physics - statics, forces, geometry",
+    "blurb" : "Forces supporting a mass",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#6bb0867d21664cc89982ba324f235ebf"
+  },
+  "mettler-scale": {
+    "name": "mettler scale",
+    "rows": 11,
+    "columns": 3,
+    "filename": "mettler-scale.csv",
+    "keywords" : "physics - statics,forces,geometry",
+    "blurb" : "How the apparent weight of an object changes as you tile the scale.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#02a3d398562c48ebb30a7dbed780e9a5"
+  },
   "cooling": {
     "name": "cooling",
     "rows": 61,
@@ -80,51 +116,6 @@
     "blurb" : "Sure looks linear...but is it?",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#3edb842904004bb5bf284218474c02f3"
   },
-  "eddy": {
-    "name": "eddy tube drop",
-    "rows": 19,
-    "columns": 2,
-    "filename": "eddy.csv",
-    "keywords" : "physics - E&M",
-    "blurb" : "Magnets falling -- slowly -- through a copper pipe.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#398affa32cb84626bb1cdf179f9b947e"
-  },
-  "electromagnet": {
-    "name": "electromagnet",
-    "rows": 16,
-    "columns": 3,
-    "filename": "electromagnet.csv",
-    "keywords" : "physics - E&M,power law",
-    "blurb" : "Force from an electromagnet depending on current and distance.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
-  },
-  "magnet-force": {
-    "name": "magnet force",
-    "rows": 37,
-    "columns": 3,
-    "filename": "magnet-force.csv",
-    "keywords" : "physics - E&M,power law",
-    "blurb" : "Repulsive force from an magnet depending on distance.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ff8161a56e3542e5bfa2467a1907e966"
-  },
-  "tension-springs": {
-    "name": "tension springs",
-    "rows": 20,
-    "columns": 3,
-    "filename": "tension-springs.csv",
-    "keywords" : "physics - statics,Hooke,spring",
-    "blurb" : "Force and length for three tension springs. Discovery of pre-tension.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#165c2b1522684e2bb8c8096c49280198"
-  },
-  "Hooke's slinky": {
-    "name": "Hooke's slinky",
-    "rows": 36,
-    "columns": 3,
-    "filename": "hooke-slinky.csv",
-    "keywords" : "physics - statics,Hooke,spring",
-    "blurb" : "Force from a horizontal slinky, depending on distance and number of slinks.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#15f9d9ad354b45fb9eaeffe37266ef72"
-  },
   "hang-slinky-freq": {
     "name": "hanging slinky frequency",
     "rows": 12,
@@ -142,15 +133,6 @@
     "keywords" : "physics - mechanics,quadratic,spring",
     "blurb" : "Length of a hanging slinky, depending on number of slinks.",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#db166d5b494849aa802032934658dccd"
-  },
-  "mettler-scale": {
-    "name": "ramp angle 1",
-    "rows": 11,
-    "columns": 3,
-    "filename": "mettler-scale.csv",
-    "keywords" : "physics - statics,geometry",
-    "blurb" : "How the apparent weight of an object changes as you tile the scale.",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#02a3d398562c48ebb30a7dbed780e9a5"
   },
   "ramp-angle-1": {
     "name": "ramp angle 1",
@@ -206,14 +188,32 @@
     "blurb" : "How the distance a cue ball rolls depends on its speed",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ac1f5659b74344019ac26645f8415ece"
   },
-  "hanging-triangle": {
-    "name": "hanging&nbsp;triangle",
-    "rows": 6,
-    "columns": 5,
-    "filename": "hanging-triangle.csv",
-    "keywords" : "physics - statics, forces, geometry",
-    "blurb" : "Forces supporting a mass",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#6bb0867d21664cc89982ba324f235ebf"
+  "eddy": {
+    "name": "eddy tube drop",
+    "rows": 19,
+    "columns": 2,
+    "filename": "eddy.csv",
+    "keywords" : "physics - E&M",
+    "blurb" : "Magnets falling -- slowly -- through a copper pipe.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#398affa32cb84626bb1cdf179f9b947e"
+  },
+  "electromagnet": {
+    "name": "electromagnet",
+    "rows": 16,
+    "columns": 3,
+    "filename": "electromagnet.csv",
+    "keywords" : "physics - E&M,power law",
+    "blurb" : "Force from an electromagnet depending on current and distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#65a7467d74ca4e3d99e74332176fa4f6"
+  },
+  "magnet-force": {
+    "name": "magnet force",
+    "rows": 37,
+    "columns": 3,
+    "filename": "magnet-force.csv",
+    "keywords" : "physics - E&M,power law",
+    "blurb" : "Repulsive force from an magnet depending on distance.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#ff8161a56e3542e5bfa2467a1907e966"
   },
   "thin-lens": {
     "name": "thin lens",
