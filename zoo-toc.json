@@ -62,6 +62,24 @@
     "blurb" : "Data from a weather balloon ascent. Predict altitude as a function of time...",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#220e0887fa4146e5ba9bca2be415efec"
   },
+  "birgit": {
+    "name": "Birgit the giant tortoise",
+    "rows": 2846,
+    "columns": 7,
+    "sharedUrl": "https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=16351",
+    "keywords" : "animal tracking,time series",
+    "blurb" : "Tracking data for a giant tortoise, Jan-July 2015. How fast DO they go?",
+    "infoUrl" : ""
+  },
+  "golden-gate-tides": {
+    "name": "golden gate tides",
+    "rows": 744,
+    "columns": 3,
+    "filename": "golden-gate-tides.csv",
+    "keywords" : "tides,time series, waves, fourier",
+    "blurb" : "Tidal data at the Golden Gate. Perfect for (fast or slow) Fourier analysis.",
+    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#220e0887fa4146e5ba9bca2be415efec"
+  },
   "Hooke's slinky": {
     "name": "Hooke's slinky",
     "rows": 36,
