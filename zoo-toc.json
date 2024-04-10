@@ -53,6 +53,24 @@
     "blurb" : "Length and mass of a whole lot of snook. (Snook are fish...)",
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#df8abd39d4dc441d95811fb7f4acd9d4"
   },
+  "fishers irises": {
+    "name": "Fisher's irises",
+    "rows": 150,
+    "columns": 6,
+    "sharedURL": "https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FuuqhmMMfi5yL4eaZ1odq%2Ffile.json",
+    "keywords" : "classification,machine learning,plants",
+    "blurb" : "Famous dataset! Measurements of three different species of iris. Can you tell them apart?",
+    "infoUrl" :   ""
+  },
+  "tangerines": {
+    "name": "tangerines",
+    "rows": 72,
+    "columns": 3,
+    "sharedURL": "https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2Fyz9N8bgEdarPzMhO0H3h%2Ffile.json",
+    "keywords" : "time series,plants",
+    "blurb" : "Eighteen students weigh their tangerines over the course of a week.",
+    "infoUrl" :   ""
+  },
   "radiosonde": {
     "name": "radiosonde",
     "rows": 185,
@@ -63,12 +81,12 @@
     "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#220e0887fa4146e5ba9bca2be415efec"
   },
   "birgit": {
-    "name": "Birgit the giant tortoise",
+    "name": "Birgit the tortoise",
     "rows": 2846,
     "columns": 7,
     "sharedUrl": "https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=16351",
     "keywords" : "animal tracking,time series",
-    "blurb" : "Tracking data for a giant tortoise, Jan-July 2015. How fast DO they go?",
+    "blurb" : "Tracking data for a giant tortoise, Jan&ndash;July 2015. How fast DO they go?",
     "infoUrl" : ""
   },
   "golden-gate-tides": {
