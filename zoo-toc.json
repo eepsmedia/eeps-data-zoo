@@ -1,13 +1,49 @@
 {
-  "shopping-carts": {
-    "name": "shopping carts",
-    "rows": 12 ,
-    "columns": 3,
-    "filename": "shopping-carts.csv",
-    "keywords" : "linear",
-    "blurb" : "Lengths of shopping-cart \"trains\"",
-    "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?pvs=4#779f0cb6203f43e9aeadbc00d1ec3d08"
-  },
+    "green-mehr-mi": {
+      "name": "Heart attacks!",
+      "rows": 89,
+      "columns": 4,
+      "filename": "green-mehr-mi.csv",
+      "keywords" : "people, health",
+      "blurb" : "Symptoms from 89 heart patients. Which ones should you send to the cardiac unit?",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80978108c82c38c6eaf1"
+    },
+    "1000-Iowans": {
+      "name": "1000 Iowans from the 2020 Census",
+      "rows": 1000,
+      "columns": 27,
+      "filename": "1000-Iowans.csv",
+      "keywords" : "people, Census, income",
+      "blurb" : "1000 Iowans from the 2020 Census",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80a4af2de2520b043b4d"
+    },
+    "titanic-passengers": {
+      "name": "Titanic passengers",
+      "rows": 1309,
+      "columns": 14	,
+      "filename": "titanic-passengers.csv",
+      "keywords" : "people, disasters, classification",
+      "blurb" : "1309 passenges from the Titanic. Who has the best chance of surviving? Famous dataset!",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee802eb935d94c3d32cbef"
+    },
+    "berkeley-earthquake": {
+      "name": "Berkeley earthquake, 2025-09-22",
+      "rows": 26400,
+      "columns": 2,
+      "filename": "berkeley-earthquake.csv",
+      "keywords" : "seismicity, time series",
+      "blurb" : "An early-morning earthquake in September 2025. Woke up the curator...",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#779f0cb6203f43e9aeadbc00d1ec3d08"
+    },
+    "shopping-carts": {
+      "name": "shopping carts",
+      "rows": 12 ,
+      "columns": 3,
+      "filename": "shopping-carts.csv",
+      "keywords" : "linear",
+      "blurb" : "Lengths of shopping-cart \"trains\"",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80faab67f35914950e0c"
+    },
   "satgpa": {
     "name": "SATGPA",
     "rows": 1000,
