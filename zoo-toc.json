@@ -8,6 +8,15 @@
       "blurb" : "Symptoms from 89 heart patients. Which ones should you send to the cardiac unit?",
       "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80978108c82c38c6eaf1"
     },
+    "US-counties-internet": {
+      "name": "Internet in US counties",
+      "rows": 3142,
+      "columns": 5,
+      "filename": "US-counties-internet.csv",
+      "keywords" : "people, internet",
+      "blurb" : "Information on US counties. Population, median income, urban or rural ... and what percent have internet",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80dca6acc1e111cda716"
+    },
     "1000-Iowans": {
       "name": "1000 Iowans from the 2020 Census",
       "rows": 1000,
@@ -16,6 +25,15 @@
       "keywords" : "people, Census, income",
       "blurb" : "1000 Iowans from the 2020 Census",
       "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80a4af2de2520b043b4d"
+    },
+    "Vermont-2023": {
+      "name": "6810 Vermonters from the 2023 ACS",
+      "rows": 6810,
+      "columns": 32,
+      "filename": "1000-Iowans.csv",
+      "keywords" : "people, households, hoierarchy, Census",
+      "blurb" : "6810 Vermonters in 2023. To understand this dataset, you *must* look at the information button!",
+      "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80a5a8f7fda0f240e5e8"
     },
     "titanic-passengers": {
       "name": "Titanic passengers",
