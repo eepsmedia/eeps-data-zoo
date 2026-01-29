@@ -1,4 +1,13 @@
-﻿NAME, population, median_income, with_internet, type
+﻿# name: US-counties-internet
+# source: https://raw.githubusercontent.com/eepsmedia/eeps-data-zoo/main/cages/US-counties-internet.csv
+# importDate: 2026-01-29T15:54:27.920Z
+# description: internet access in US Counties, probably 2023 
+# attribute -- name: NAME, description: county or region name, type: categorical, editable: true
+# attribute -- name: population, type: numeric, editable: true
+# attribute -- name: median_income, type: numeric, editable: true
+# attribute -- name: with_internet, description: percent of households with internet, type: numeric, editable: true
+# attribute -- name: type, editable: true
+NAME,population,median_income,with_internet,type
 "Autauga, Alabama",55200,58786,80.9708738,Mostly Urban
 "Baldwin, Alabama",208107,55962,83.1662893,Mostly Urban
 "Barbour, Alabama",25782,34186,65.8937514,Mostly Rural
