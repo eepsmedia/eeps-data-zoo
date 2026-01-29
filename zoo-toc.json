@@ -30,8 +30,8 @@
       "name": "6810 Vermonters from the 2023 ACS",
       "rows": 6810,
       "columns": 32,
-      "filename": "1000-Iowans.csv",
-      "keywords" : "people, households, hoierarchy, Census",
+      "filename": "Vermont-2023.csv",
+      "keywords" : "people, households, hierarchy, Census",
       "blurb" : "6810 Vermonters in 2023. To understand this dataset, you *must* look at the information button!",
       "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee80a5a8f7fda0f240e5e8"
     },
@@ -41,7 +41,7 @@
       "columns": 14	,
       "filename": "titanic-passengers.csv",
       "keywords" : "people, disasters, classification",
-      "blurb" : "1309 passenges from the Titanic. Who has the best chance of surviving? Famous dataset!",
+      "blurb" : "1309 passengers from the Titanic. Who has the best chance of surviving? Famous dataset!",
       "infoUrl" :   "https://www.notion.so/eeps/eeps-data-zoo-9f5286dad5744fcca334d8741806e521?source=copy_link#27afe7c5e7ee802eb935d94c3d32cbef"
     },
     "berkeley-earthquake": {
