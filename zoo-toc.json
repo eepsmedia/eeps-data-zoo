@@ -122,7 +122,7 @@
     "columns": 12,
     "filename": "breast-cancer.csv",
     "sharedUrl": "https://codap.concord.org/app/#shared=https%3A%2F%2Fcfm-shared.concord.org%2FTpSdMoHEeCssSZ4ilYcz%2Ffile.json",
-    "keywords" : "classification,machine learning,health,people",
+    "keywords" : "health,people,classification,machine learning",
     "blurb" : "Use 10 measurements from breast imaging to predict whether a tumor is malignant or benign.",
     "infoUrl" :   ""
   },
